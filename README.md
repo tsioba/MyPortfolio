@@ -1,45 +1,50 @@
-🌌 Deep Blue Nexus | Developer Portfolio
 
-A modern, highly interactive, and AI-powered personal portfolio built with React and Tailwind CSS. Designed with a "Deep Blue Nexus" aesthetic, it features an app-like Single Page Application (SPA) experience, a floating macOS-style dock, 3D tilt effects, and integrated Google Gemini AI functionalities.
+=======
+# Developer Portfolio
 
-✨ Key Features
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-121013?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
 
-App-Like Navigation: Smooth, animated transitions between sections without page reloads.
+A modern, highly interactive portfolio experience designed as a **Single Page Application (SPA)**, centering on Artificial Intelligence and the "Nexus" aesthetic.
 
-Floating Glass Dock: A centralized, macOS-style navigation dock with blur effects and hover tooltips.
+[**Live Demo**](https://tsioba.gr) 
 
-Interactive UI/UX:
+---
 
-Dynamic "Constellation" canvas background that reacts to cursor movements.
+## ✨ Key Features
 
-Custom glowing cursor and follower.
+### 📱 App-Like Experience
+* **Floating Glass Dock:** A macOS-inspired navigation dock featuring frosted glass blur effects, hover tooltips, and fluid transitions.
+* **Seamless Navigation:** Smooth, animated transitions between sections without page reloads, maintaining application state.
 
-3D Tilt Cards for project showcasing.
+### 🤖 AI-Powered Intelligence (Gemini 2.5 Flash)
+* **Giannis AI Assistant:** An intelligent chatbot trained on my professional background, capable of answering visitor inquiries in real-time.
+* **Message Refiner:** Integrated "Refine with AI" functionality in the contact form that instantly polishes user drafts into professional messages.
 
-🤖 AI Integration (Powered by Gemini):
+### 🎨 Interactive UI/UX
+* **Constellation Canvas:** A dynamic, math-driven background that reacts to cursor movement via HTML5 Canvas.
+* **3D Tilt Cards:** High-fidelity hover effects with perspective depth for project showcasing.
+* **Custom Glowing Cursor:** A bespoke cursor system with a magnetic follower for enhanced feedback and aesthetic depth.
 
-Giannis AI Assistant: An intelligent floating chatbot trained on my resume to answer visitor questions in real-time.
+---
 
-Message Refiner: A "Refine with AI" button in the contact form that instantly polishes the user's message draft to sound more professional.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+* **Frontend:** React.js & Tailwind CSS
+* **Icons:** Lucide React
+* **AI Integration:** `@google/generative-ai` (Gemini 2.5 Flash)
+* **Animations:** Custom CSS Keyframes & React State-driven transitions
 
-Frontend: React.js, Tailwind CSS
+---
 
-Icons: Lucide React
+## 👨‍💻 Author
 
-AI / LLM: @google/generative-ai (Gemini 2.5 Flash)
+**Giannis Tsioumpanoudis**
+* **Website:** [tsioba.gr](https://tsioba.gr)
+* **GitHub:** [@tsioba](https://github.com/tsioba)
+* **LinkedIn:** [Giannis Tsioympanoudis](https://www.linkedin.com/in/giannis-tsioympanoydis/)
 
-Animations: Custom CSS, React State, HTML5 Canvas
-
-👨‍💻 Author
-
-Giannis Tsiobas
-
-Website: tsioba.gr
-
-GitHub: @yourusername
-
-LinkedIn: Your LinkedIn Profile
-
-Designed & Developed with passion and precision.
+---
+*Designed & Developed with passion and precision.*
+>>>>>>> 36af334621668557d1afd8310452c9af3d86e051
