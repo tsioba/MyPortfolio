@@ -47,4 +47,4 @@ A modern, highly interactive portfolio experience designed as a **Single Page Ap
 
 ---
 *Designed & Developed with passion and precision.*
->>>>>>> 36af334621668557d1afd8310452c9af3d86e051
+
